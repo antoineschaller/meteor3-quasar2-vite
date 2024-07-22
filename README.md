@@ -1,6 +1,6 @@
 # Meteor3 + Vue3 + Vite + Quasar + Fontawesome
 
-This is a simple example of how to use Meteor3 + Vue3 + Quasar Framweork 2 together.
+This is a simple example of how to use Meteor3 + Vue3 + Quasar Framework 2 together.
 
 ## How to use
 1. Clone this repo
