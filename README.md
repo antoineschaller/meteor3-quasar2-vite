@@ -18,6 +18,4 @@ This is a simple example of how to use Meteor3 + Vue3 + Quasar Framweork 2 toget
 - [Vue Meteor Tracker](https://github.com/meteor-vue/vue-meteor-tracker)
 
 ## Fontawesome and Material-icon CDN
-Follow this guide to import material-icon
-`https://quasar.dev/start/umd#installation`
-and add the lines to your `main.html` file 
+To install the webfonts follow this [guide to import material-icon](https://quasar.dev/start/umd#installation) and add the lines to your `main.html` file.
